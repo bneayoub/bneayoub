@@ -1,9 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Morocco;I'm+Datascientist;I'm+Currently+ALX+Student🤓;Welcome!❤️)
 
 
-<h1>Ayoub BOUNADER 👨🏻‍💻📊📉</h1>
+<h2>Ayoub BOUNADER 👨🏻‍💻📊📉</h2>
 
-<h2><code>Datascientist & software engineering student</code></h2>
+<h3><code>Datascientist & software engineering student</code></h3>
 
 <p>I am a Data Science engineer, with some background in software engineerings. I am passionate about solving real-life problems with code and constantly strive to learn and improve my skills.</p>
 
