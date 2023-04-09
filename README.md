@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Morocco;I'm+28+years+old;I'm+Datascientist+Currently+ALX+Student🤓;Welcome!❤️)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Morocco;I'm+Datascientist;I'm+Currently+ALX+Student🤓;Welcome!❤️)
 
 
 <h1>Ayoub BOUNADER 👨🏻‍💻📊📉</h1>
@@ -10,6 +10,8 @@
 
 <!--Graph-->
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bneayoub&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
+
+<img src="https://github-profile-trophy.vercel.app/?username=bneayoub&theme=radical" alt="trophy">
 
 <!--Skill And More Information--> 
 <div align="center">  
