@@ -1,5 +1,13 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Morocco;I'm+28+years+old;I'm+Datascientist+Currently+ALX+Student🤓;Welcome!❤️)
 
+
+<h1>Ayoub BOUNADER 👨🏻‍💻📊📉</h1>
+
+<h2><code>Datascientist & software engineering student</code></h2>
+
+<p>I am a Data Science engineer, with some background in software engineerings. I am passionate about solving real-life problems with code and constantly strive to learn and improve my skills.</p>
+
+
 <!--Graph-->
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bneayoub&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 
@@ -12,10 +20,10 @@
 
 <!--Social Media-->  
 <div align="center"> 
-<a href="https://github.com/bneayoub" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://twitter.com/bneayoub1" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://github.com/bneayoub" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://leetcode.com/user5750sh/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-%23F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"></a>
-
+<a href="https://www.hackerrank.com/bne_ayoub" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
  </div>
   
 
