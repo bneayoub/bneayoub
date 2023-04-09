@@ -14,26 +14,24 @@
 <a href="https://leetcode.com/user5750sh/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-%23F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"></a>
 <a href="https://www.hackerrank.com/bne_ayoub" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
  </div>
-
+ 
 <!--Graph-->
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bneayoub&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bneayoub&theme=radical" alt="trophy">
-</p>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=bneayoub&theme=radical" alt="trophy">
+</div>
 
 <!--Skill And More Information--> 
-<p align="center">  
+<div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bneayoub&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Ayoub Dev github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bneayoub&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-</p>
+</div>
 
 <!--Total Contributions--> 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bneayoub&theme=tokyonight_duo&hide_border=true">
+ <p align="center">
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=bneayoub&theme=tokyonight_duo&hide_border=true"
 </p>
-
 
 <!--visits-->   
 <div align="center">
