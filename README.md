@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Morocco;I'm+Datascientist;I'm+Currently+ALX+Student🤓;Welcome!❤️)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Morocco;I'm+a+Datascientist;I'm+Currently+an+ALX+Student🤓;Welcome!❤️)
 
 
 <h2>Ayoub BOUNADER 👨🏻‍💻📊📉</h2>
