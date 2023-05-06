@@ -5,7 +5,7 @@
 
 <h3><code>Datascientist & software engineering student</code></h3>
 
-<p>I am a Data Science engineer, with some background in software engineerings. I am passionate about solving real-life problems with code and constantly strive to learn and improve my skills.</p>
+<p>I am a Data Science engineer, with some background in software engineering. I am passionate about solving real-life problems with code and constantly strive to learn and improve my skills.</p>
 
 <!--Social Media-->  
 <div align="center"> 
