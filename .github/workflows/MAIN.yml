@@ -19,7 +19,7 @@ jobs:
           node-version: '20.x'
 
       - name: Generate the snake SVG
-        uses: Platane/snk@new_version # Replace with the correct version number.
+        uses: Platane/snk@v3.2.0 # Replace with the correct version number.
         with:
           # Make sure these options are correct according to the action's documentation
           github_user_name: ${{ github.repository_owner }}
