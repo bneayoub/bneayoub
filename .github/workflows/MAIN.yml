@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Generate the snake SVG
-        uses: Platane/snk@new_version # Replace new_version with the correct version.
+        uses: Platane/snk@v3.2.0
         with:
           github_user_name: bneayoub
           # Confirm these output paths are correct based on the action's documentation.
