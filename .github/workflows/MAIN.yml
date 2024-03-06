@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -13,22 +13,25 @@ jobs:
       - name: Check out the repository
         uses: actions/checkout@v2
 
-      - name: Generate the snake SVG
-        uses: Platane/snk@v3.2.0
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
         with:
-          github_user_name: bneayoub
-          # Confirm these output paths are correct based on the action's documentation.
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          node-version: '20.x'
 
-      - name: Show git status
-        run: git status
+      - name: Generate the snake SVG
+        uses: Platane/snk@new_version # Replace with the correct version number.
+        with:
+          # Make sure these options are correct according to the action's documentation
+          github_user_name: ${{ github.repository_owner }}
+          # Define the outputs based on the action's documentation
+          # If these are incorrect, you'll need to replace them with the correct ones
+          # ...
 
       - name: Commit and push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: output # Ensure this is the branch you want to push to
           force: true
 
       - name: Deploy to GitHub Pages
