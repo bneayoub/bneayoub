@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I am Ayoub B.;I'm+from+Morocco;I'm+a+Datascientist; I am also a Software engineer in progress;Welcome!❤️)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I+am+Ayoub+B.;I'm+from+Morocco;I'm+a+Datascientist;I+am+also+a+software+engineer+in+progress;Welcome!❤️)
 
 
 <h2>Bneay 👨🏻‍💻📊📉</h2>
