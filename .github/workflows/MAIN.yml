@@ -19,19 +19,22 @@ jobs:
           node-version: '20.x'
 
       - name: Generate the snake SVG
-        uses: Platane/snk@v3.2.0 # Replace with the correct version number.
+        uses: Platane/snk@v3.2.0
         with:
-          # Make sure these options are correct according to the action's documentation
           github_user_name: ${{ github.repository_owner }}
-          # Define the outputs based on the action's documentation
-          # If these are incorrect, you'll need to replace them with the correct ones
-          # ...
+          svg_out_path: 'dist/github-contribution-grid-snake.svg'
+
+      - name: Create the dist directory
+        run: mkdir -p dist
+
+      - name: List output files
+        run: ls -R dist
 
       - name: Commit and push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output # Ensure this is the branch you want to push to
+          branch: output
           force: true
 
       - name: Deploy to GitHub Pages
