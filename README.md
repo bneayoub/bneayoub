@@ -16,7 +16,7 @@
  </div>
  
 <!--Graph-->
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bneayoub&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=bneayoub&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=bneayoub&theme=radical" alt="trophy">
