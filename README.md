@@ -25,7 +25,7 @@
 <!--Skill And More Information--> 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bneayoub&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Ayoub Dev github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bneayoub&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bneayoub&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117&hide=html" />
 </div>
 
 <!--Total Contributions--> 
