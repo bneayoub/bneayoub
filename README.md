@@ -23,7 +23,7 @@
 <!--Trophies--> 
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bneayoub&theme=darkhub&no-frame=true&row=1" alt="trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=bneayoub&theme=darkhub&row=1" alt="trophy">
 </div>
 
 <!--Skill And More Information--> 
