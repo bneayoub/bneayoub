@@ -11,8 +11,6 @@
 <div align="center"> 
 <a href="https://twitter.com/bneayoub1" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://github.com/bneayoub" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://leetcode.com/user5750sh/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-%23F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"></a>
-<a href="https://www.hackerrank.com/bne_ayoub" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
  </div>
 
  
